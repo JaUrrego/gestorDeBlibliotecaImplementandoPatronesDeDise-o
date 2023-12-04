@@ -1,0 +1,1 @@
+var CodeMR_ProjectMetrics = {"Project Name":"PrototipoBibliotecaImplementandoPatrones working set: {PrototipoBibliotecaImplementandoPatrones}", "Number of Highly Problematic Classes":0, "Number of Entities":14, "Number of Problematic Classes":0, "Class Lines of Code":202, "Number of External Packages":10, "Number of Packages":5, "Number of External Entities":22}
